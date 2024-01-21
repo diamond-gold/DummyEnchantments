@@ -1,0 +1,10 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/diamond-gold/DummyEnchantments
+build-by-default: true
+branches:
+- main
+projects:
+  DummyEnchantments:
+    path: ""
+    lint:
+      phpstan: false
+...

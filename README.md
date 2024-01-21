@@ -6,6 +6,13 @@
 > 
 > Items can be enchanted with `/enchant` command.
 
+[![](https://poggit.pmmp.io/ci.shield/diamond-gold/DummyEnchantments/DummyEnchantments?style=for-the-badge)](https://poggit.pmmp.io/ci/diamond-gold/DummyEnchantments/~)
+
+[![](https://poggit.pmmp.io/shield.api/DummyEnchantments?style=for-the-badge)](https://poggit.pmmp.io/p/DummyEnchantments)
+[![](https://poggit.pmmp.io/shield.downloads/DummyEnchantments?style=for-the-badge)](https://poggit.pmmp.io/p/DummyEnchantments)
+[![](https://poggit.pmmp.io/shield.downloads.total/DummyEnchantments?style=for-the-badge)](https://poggit.pmmp.io/p/DummyEnchantments)
+[![](https://poggit.pmmp.io/shield.state/DummyEnchantments?style=for-the-badge)](https://poggit.pmmp.io/p/DummyEnchantments)
+
 Encountered a bug? Want something added? Create an [issue](https://github.com/diamond-gold/DummyEnchantments/issues) (＃°Д°)
 
 Have questions? Start a [discussion](https://github.com/diamond-gold/DummyEnchantments/discussions) ✍(◔◡◔)

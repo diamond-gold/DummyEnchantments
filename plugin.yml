@@ -1,0 +1,7 @@
+name: DummyEnchantments
+main: diamondgold\DummyEnchantments\Main
+description: Adds dummy enchantments
+version: 0.0.1
+api: 5.0.0
+load: POSTWORLD
+author: diamond-gold (ace)

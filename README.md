@@ -1,6 +1,6 @@
-> Enchantments added are not functional.
+> Enchantments added are not functional server-side, but may cause client-side behavior (depth strider, curse of binding etc.)
 > 
-> Prevents enchantments on items being lost when loading from vanilla worlds.
+> Prevents unimplemented enchantments from being lost when loading from vanilla worlds.
 > 
 > Adds enchanted books for these enchantments to the creative inventory.
 > 
